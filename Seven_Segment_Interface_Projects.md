@@ -2,7 +2,7 @@
 
 This file contains **Wokwi simulation links** for various **Seven Segment Display** projects implemented using **Bare Metal Embedded C**.
 
----
+
 
 ## 🔹 Project List
 
@@ -27,6 +27,6 @@ This file contains **Wokwi simulation links** for various **Seven Segment Displa
 ### 7️⃣ [Seven Segment (0000 to 9999) - Single Port (Multiplexing)](https://wokwi.com/projects/422703747617952769)
 💡 Displays **0000 to 9999** using a single port with **Multiplexing Method**.
 
----
 
-📢 **More projects will be added soon! Stay tuned.** 🚀
+
+📢 **More projects will be added soon! Stay tuned....** 🚀
