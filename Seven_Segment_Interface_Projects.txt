@@ -1,0 +1,20 @@
+3️⃣ SEVEN_SEGMENT_FROM_1_TO_9_IN_COMMON_ANODE
+🔗 Wokwi Simulation: [Click Here](https://wokwi.com/projects/422506992567801857)
+
+4️⃣ SEVEN_SEGMENT_FROM_1_TO_9_IN_COMMON_CATHODE
+🔗 Wokwi Simulation: [Click Here](https://wokwi.com/projects/422500582620720129)
+
+5️⃣ SEVEN_SEGMENT_FROM_A_TO_Y_IN_COMMON_ANODE
+🔗 Wokwi Simulation: [Click Here](https://wokwi.com/projects/422518976483914753)
+
+6️⃣ SEVEN_SEGMENT_FROM_00_TO_99
+🔗 Wokwi Simulation: [Click Here](https://wokwi.com/projects/422521573906802689)
+
+7️⃣ SEVEN_SEGMENT_FROM_00_TO_99_IN_SINGLE_PORT (MULTIPLEXING_METHOD)
+🔗 Wokwi Simulation: [Click Here](https://wokwi.com/projects/422617672776871937)
+
+8️⃣ SEVEN_SEGMENT_FROM_0000_TO_9999
+🔗 Wokwi Simulation: [Click Here](https://wokwi.com/projects/422619268674065409)
+
+9️⃣ SEVEN_SEGMENT_FROM_0000_TO_9999_IN_SINGLE_PORT (MULTIPLEXING_METHOD)
+🔗 Wokwi Simulation: [Click Here](https://wokwi.com/projects/422703747617952769)
