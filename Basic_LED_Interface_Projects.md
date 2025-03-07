@@ -20,4 +20,4 @@ This file contains **Wokwi simulation links** for various LED-based projects imp
 
 ---
 
-📢 **More projects will be added soon! Stay tuned.** 🚀
+📢 **More projects will be added soon! Stay tuned...** 🚀
