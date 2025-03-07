@@ -2,7 +2,7 @@
 
 This file contains **Wokwi simulation links** for various LED-based projects implemented using **Bare Metal Embedded C**.
 
----
+
 
 ## 🔹 Project List
 
