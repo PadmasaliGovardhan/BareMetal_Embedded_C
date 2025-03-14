@@ -6,11 +6,12 @@ This project demonstrates an **8x8 LED Dot Matrix** display, implemented using B
 - Controls an **8x8 LED Dot Matrix** to display patterns or characters.
 - Implemented with **direct GPIO manipulation**.
 - Suitable for learning about **multiplexing and LED matrix driving techniques**.
-- You can observe all codes in one Project.
+- All Codes(Print Heart Symbol, Print from 0 to 9, Print from A to Z) in one Project.
 
 ### 🔗 **Wokwi Simulation**
-    [Dot Matrix Project](https://wokwi.com/projects/425320103659800577)
+[Dot Matrix Project](https://wokwi.com/projects/425320103659800577)
 
+---
 📢 **More Dot Matrix projects will be added soon! Stay tuned.** 🚀
 
 
