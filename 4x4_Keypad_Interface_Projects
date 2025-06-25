@@ -5,7 +5,7 @@ This file contains Wokwi simulation links for various 4x4 Keypad Interface proje
 Project List
 4x4 Keypad with LED Control
 Each key controls a specific LED when pressed.
-🔗 Wokwi Simulation: [4x4 Keypad With LED](https://wokwi.com/projects/424044059555426305)
+🔗 Wokwi Simulation: <a href="https://wokwi.com/projects/424044059555426305" target="_blank">4x4 Keypad With LED</a>
 
 4x4 Keypad with 7-Segment Display
 Displays the pressed key on a 7-segment display.
